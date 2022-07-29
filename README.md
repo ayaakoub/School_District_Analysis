@@ -8,11 +8,11 @@ This project revolves around helping Maria analyze data on student funding and s
 ### How is the district summary affected?
 - The district summary barely changes as removing the 9th graders from one school does not account for a lot from the total number of students. The original district summary results are as follows:
 
-![Original District Summary](https://github.com/ayaakoub/School_District_Analysis/blob/main/Resources/District_Summary_Original.png)
+!(https://github.com/ayaakoub/School_District_Analysis/blob/main/Resources/District_Summary_Original.png)
 
 And the adjusted are as shown:
 
-![Adjusted District Summary](https://github.com/ayaakoub/School_District_Analysis/blob/main/Resources/District_Summary_Adjusted.png)
+!(https://github.com/ayaakoub/School_District_Analysis/blob/main/Resources/District_Summary_Adjusted.png)
 
 - It can be seen that there are 39,170 students in total from all districts, a count of the ninth graders at Thomas High yields 461 students. The grades from those 461 students has an impact of less than a 1% (0.1% to be exact on math and reading averages).
 
