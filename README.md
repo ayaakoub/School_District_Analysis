@@ -8,11 +8,11 @@ This project revolves around helping Maria analyze data on student funding and s
 ### How is the district summary affected?
 - The district summary barely changes as removing the 9th graders from one school does not account for a lot from the total number of students. The original district summary results are as follows:
 
-![at text](https://github.com/ayaakoub/School_District_Analysis/blob/main/Resources/District_Summary_Original.png)
+![District Summary Original](https://github.com/ayaakoub/School_District_Analysis/blob/main/Resources/District_Summary_Original.PNG)
 
 And the adjusted are as shown:
 
-![text](https://github.com/ayaakoub/School_District_Analysis/blob/main/Resources/District_Summary_Adjusted.png)
+![District Summary Adjust](https://github.com/ayaakoub/School_District_Analysis/blob/main/Resources/District_Summary_Adjusted.PNG)
 
 - It can be seen that there are 39,170 students in total from all districts, a count of the ninth graders at Thomas High yields 461 students. The grades from those 461 students has an impact of less than a 1% (0.1% to be exact on math and reading averages).
 
@@ -21,7 +21,7 @@ And the adjusted are as shown:
 Original:
 ![Original Per Summary](https://github.com/ayaakoub/School_District_Analysis/blob/main/Resources/Per_Summary_Original.PNG)
 Adjusted:
-![Adjust District Summary](https://github.com/ayaakoub/School_District_Analysis/blob/main/Resources/Per_Summary_Adjusted.png)
+![Adjusted Per Summary](https://github.com/ayaakoub/School_District_Analysis/blob/main/Resources/Per_Summary_Adjusted.PNG)
 
 - However, the average scores and percentages were mostly effected when a new average was taken by eliminating the 9th grader student count. Since just converting the student grades to NaN did not reduce the total number of student count. When the new count was used the average was adjusted significantly (increased) as shown below:
 
@@ -43,9 +43,9 @@ Adjusted:
 - Scores by school type
   Similar to above each bucket (Charter and District) are large and contain a lot of other schools and so the change from Thomas High does not have much of an impact both results can be seen below, original and adjusted, respecitvely. 
 Original:
-![Original Type Summary](https://github.com/ayaakoub/School_District_Analysis/blob/main/Resources/Type_Summary_Original.png)
+![Original Type Summary](https://github.com/ayaakoub/School_District_Analysis/blob/main/Resources/Type_Summary_Original.PNG)
 Adjusted:
-![Adjusted Type Summary](https://github.com/ayaakoub/School_District_Analysis/blob/main/Resources/Type_Summary_Adjusted.png)
+![Adjusted Type Summary](https://github.com/ayaakoub/School_District_Analysis/blob/main/Resources/Type_Summary_Adjusted.PNG)
 ## School District Analysis Summary
 
 There are many differences that occured when the ninth graders scores were removed: 
